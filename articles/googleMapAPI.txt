@@ -1,0 +1,3 @@
+Link for google's map API documentation
+
+https://developers.google.com/maps/documentation/android-sdk/intro
