@@ -1,0 +1,5 @@
+Connecting to the USU API:
+https://usu.service-now.com/kb_view.do?sys_kb_id=f79e153a749ea100cfa6824750f7d467&sysparm_nameofstack=&sysparm_kb_search_table=
+
+USU API Documentation:
+https://docs.api.usu.edu/
